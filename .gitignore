@@ -88,13 +88,17 @@ crashlytics-build.properties
 # Assets
 
 Assets/Blinktool
+Assets/Color
+Assets/FantasyMedievalTown_LITE
 Assets/JC_StylizedNature_Lite
 Assets/JC_StylizedRocks_Lite
 Assets/LowPolyDungeonsLite
 Assets/LowPolyFPSLite
+Assets/LowPolyMedievalPropsLite
 Assets/LowPolyTropicalEnvironment_LITE
 Assets/Meanwhile On The Moon
 Assets/PolyOne
 Assets/Prefab
 Assets/SimpleNaturePack
-Assets/Color
+
+
